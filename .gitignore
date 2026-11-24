@@ -1,6 +1,11 @@
 # Custom
 Exam 1/data_old/
 
+# Exam 2/latex: solo el informe (.tex y .pdf)
+Exam 2/latex/*
+!Exam 2/latex/*.tex
+!Exam 2/latex/*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
